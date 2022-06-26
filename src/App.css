@@ -1,0 +1,30 @@
+.leaflet-container{
+  width: 100%;
+  height: 100vh;
+}
+
+#login_button{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  z-index: 400;
+}
+#frontMap{
+  z-index: 1;
+}
+.main-modal{
+  z-index: 400;
+}
+
+#main-modal{
+  z-index: 500;
+}
+
+#login_button{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  z-index: 400;
+}
