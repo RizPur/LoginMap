@@ -6,7 +6,7 @@ This repository serves as a code container for a work project.
 
 ## Features
 
-- [x] Login and Logout interfaces
+- [x] Interactive Map to login and out seemlessly 
 - [x] React.js
 - [x] Filter by parish or by current status of logs
 
