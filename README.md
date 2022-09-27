@@ -18,8 +18,8 @@ Know where everybody is and what they are doing across the island at a glance.
 
 These things are required before setting up the project.
 
-- Git [Read Guide](https://github.com/git-guides/install-git)
-- Node.js [Read Guide](https://nodejs.org/en/download/)
+- [Git](https://github.com/git-guides/install-git)
+- [Node.js](https://nodejs.org/en/download/)
 
 ## Getting Started
 
