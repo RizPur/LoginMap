@@ -3,13 +3,14 @@
 # Interactive Map for logging in and out employees across Jamaica - Single client.
 
 This repository serves as a code container for a work project.
+Know where everybody is and what they are doing across the island at a glance. 
 
 ## Features
 
 - [x] Interactive Map to log in and out workers 
 - [x] Logs visible at a glance 
 - [x] Parish are coloured depending on how many workers are logged in currently
-- [x] Filter by parish or by current status of logs
+- [x] Filter logs by parish or by current status of logs or by CI
 
 ## Prerequisites
 
