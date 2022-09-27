@@ -52,5 +52,4 @@ $ npm run dev
 
 ## Extra
 
-- This was my first web app..
 - Send any problems or feedback via my mail (jj.brown042@gmail.com)
