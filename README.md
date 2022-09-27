@@ -18,8 +18,8 @@ Know where everybody is and what they are doing across the island at a glance.
 
 These things are required before setting up the project.
 
-- Git
-- Node.js [Read Guide](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+- Git [Read Guide](https://github.com/git-guides/install-git)
+- Node.js [Read Guide](https://nodejs.org/en/download/)
 
 ## Getting Started
 
