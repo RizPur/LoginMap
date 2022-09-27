@@ -6,8 +6,9 @@ This repository serves as a code container for a work project.
 
 ## Features
 
-- [x] Interactive Map to login and out seemlessly 
-- [x] React.js
+- [x] Interactive Map to log in and out workers 
+- [x] Logs visible at a glance 
+- [x] Parish are coloured depending on how many workers are logged in currently
 - [x] Filter by parish or by current status of logs
 
 ## Prerequisites
