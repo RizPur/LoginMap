@@ -40,7 +40,8 @@ OR
 $ npm run dev
 ```
 
-> For detailed instructions, [read the blog](https://www.ravgeet.in/blog/building-a-realtime-chat-app-with-react-laravel-and-websockets).
+> npm start to test
+> npm run dev to build app 
 
 ## Authors
 
