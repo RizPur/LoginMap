@@ -18,18 +18,6 @@ const style = {
   p: 4,
 };
 
-const style_table = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
-  width: 400,
-  bgcolor: 'background.paper',
-  border: '2px solid #000',
-  boxShadow: 24,
-  p: 4,
-}
-
 // const JAMAICA_CENTER = [18.19368269899244, -77.39527725784035] 
 
 function App() {
@@ -200,7 +188,7 @@ function App() {
       </Modal>
       <Modal open={showOut} onClose={()=>{setShowOut(false)}}>
         <Box sx={ 
-          style_table
+          style
         }>
           <FormOut log={log} setLog={setLog}/>
           <Button id="modal_login_button" variant='contained' color='error' disabled={log.Status ? false : true} onClick={() => handleLogOut()}>Logout</Button>
