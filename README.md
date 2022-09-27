@@ -10,7 +10,8 @@ Know where everybody is and what they are doing across the island at a glance.
 - [x] Interactive Map to log in and out workers 
 - [x] Logs visible at a glance 
 - [x] Parish are coloured depending on how many workers are logged in currently
-- [x] Filter logs by parish, current status of log or by CI
+- [x] Click on parish to see who is currently working there
+- [x] Filter logs by current status of log or by CI
 
 ## Prerequisites
 
