@@ -63,6 +63,39 @@ function App() {
       case 'PT':
         setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'PT'))
         break;
+      case 'TM':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'TM'))
+        break;
+      case 'MY':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'MY'))
+        break;
+      case 'SA':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'SA'))
+        break;
+      case 'TR':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'TR'))
+        break;
+      case 'JM':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'JM'))
+        break;
+      case 'HN':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'HN'))
+        break;
+      case 'WE':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'WE'))
+        break;
+      case 'EZ':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'EZ'))
+        break;
+      case 'MN':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'MN'))
+        break;
+      case 'CL':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'CL'))
+        break;
+      case 'CA':
+        setFilterLogs(filterLogs.filter(log=>log.CI.substring(0,2) === 'CA'))
+        break;
       default:
         setFilterLogs(filterLogs);
         console.log("going to default")
