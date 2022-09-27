@@ -11,6 +11,7 @@ Know where everybody is and what they are doing across the island at a glance.
 - [x] Logs visible at a glance 
 - [x] Parish are coloured depending on how many workers are logged in currently
 - [x] Click on parish to see who is currently working there
+- [x] Click on log to view details and log out
 - [x] Filter logs by current status of log or by CI
 
 ## Prerequisites
