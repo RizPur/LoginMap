@@ -20,7 +20,8 @@ const color = (d) => { //based on amount logged in at once
 const Jamaica = ({setShow, filterParish, setFilterParish, logBar, setLogBar, logs}) =>{
     
     const getCount = (id) => {
-        return logs.filter(log=>log.CI.substring(0,2) === id).length
+        return logs.filter(log=>log.CI.substring(0,2) === id && log.Status).length
+        // returns count of employees logged into parish
     }
 
     return (

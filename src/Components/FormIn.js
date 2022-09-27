@@ -7,16 +7,17 @@ import { Typography} from "@mui/material";
 
 
 const Companies = [
-    { label: 'Actavo', color: 'blue', people: ['Milton White','Jesse Pinkman']},
-    { label: 'Cowans', color: 'green', people: ['Lloyd Bird', 'Howard Guy']},
-    { label: 'Konnex', color: 'orange', people: ['Walter White']},
-    { label: 'Huawei', color: 'purple', people: ['Gareth']},
-    { label: 'Davis Pest Control', color: 'grey', people: ['Richard Gayle']}
+    { label: 'Brown Ltd.', color: 'blue'},
+    { label: 'Dujean Inc.', color: 'green'},
+    { label: 'Whale Enterprises', color: 'orange'},
+    { label: 'JPS', color: 'purple'},
+    { label: 'Bookophelia', color: 'white'}
 ]
 const Employees = [
-    { label: 'Joel Brown', company: 'Konnex'},
-    { label: 'Milton White', company: 'Actavo'},
-    { label : 'Ricardo Gayle', company: 'Davis Pest Control'}
+    { label: 'Joel Brown', company: 'Brown Ltd.'},
+    { label: 'Ashlei-Ann Carey', company: 'Dujean Inc.'},
+    { label : 'Jared Paul', company: 'Whale Enterprises'},
+    { label : 'David', company: 'Bookophelia'}
 ]
 
 const loginReasons = [
@@ -30,8 +31,24 @@ const loginReasons = [
 ]
 
 const sites = [
-    {label: 'PT034'},
-    {label: 'KN020'}
+    {label: 'PT01'},
+    {label: 'KN01'},
+    {label: 'TM01'},
+    {label: 'MY01'},
+    {label: 'JM10'},
+    {label: 'EZ11'},
+    {label: 'MN01'},
+    {label: 'MN14'},
+    {label: 'TM09'},
+    {label: 'PT22'},
+    {label: 'WE01'},
+    {label: 'SA10'},
+    {label: 'CL22'},
+    {label: 'CL01'},
+    {label: 'MN17'},
+    {label: 'TM29'},
+    {label: 'CA11'},
+    {label: 'TR01'},
 ]
 
 const FormIn = ({log, setLog}) =>{
